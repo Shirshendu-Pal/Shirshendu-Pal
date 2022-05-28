@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+    <img src="	https://camo.githubusercontent.com/cb7e47a2d4c969b…830576c56374c39634d4b684136472f67697068792e676966" alt="" srcset="">
+</div>
+
+***--------------------------------------------------------------------------------------------------------------------------------------------------------***
 ### Hi there 👋
 
 - I’m currently working as a **MERN stack developer**
