@@ -20,6 +20,6 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirshendu-Pal&theme=tokyonight&hide_border=true" alt="" srcset="">
   </div>
 ***...................................................................................................................................................................***
-<div>
-    <img src="https://skyline.github.com/Shirshendu-Pal/2021">
-</div>
+<span data-target="animated-image.imageContainer">
+    <img data-target="animated-image.replacedImage" alt="coding" class="AnimatedImagePlayer-animatedImage" src="https://skyline.github.com/Shirshendu-Pal/2021" width="250" style="display: block; opacity: 1;">
+  <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="250" height="250"></canvas></span>
