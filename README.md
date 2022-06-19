@@ -12,8 +12,10 @@
 - The technologies I know for server site are **Spring boot, core java, php , express js**
 - The technologies I know for FrontEnd are **React Js, angular CLI, vanilla js**
 - Worked with ***My Sql*** And ***MongoDb*** database
+- Recently successfully Integrated ***Alexa custom smart home skill*** and developing  ***Alexa smart home pre defined skill***
 - Ask me about my resent projects
 - reach me via email: ***shirshendupal9@gmail.com***
+- 
 
 
  <div style = "text-align:center;">
