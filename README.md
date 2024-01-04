@@ -9,7 +9,7 @@
 
 - I’m currently working as a **MERN stack developer**
 - server site **AWS EC2, S3, Nginx , Hostinger, cPanel**
-- Mycurrent role is a **SDE 1** ***(Node Js And MongoDB)***
+- Mycurrent role is a **SDE 1** ***(Node Js, MongoDB , React js, aws)***
 - The technologies I know for server site are **Spring boot, core java, php , express js, codeignitor**
 - The technologies I know for FrontEnd are **React Js, angular CLI, vanilla js**
 - Worked with ***My Sql*** And ***MongoDb*** database
